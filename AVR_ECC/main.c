@@ -4,7 +4,7 @@
  * Created: 12/11/2020 2:18:44 PM
  *  Author: Аркадий
  */ 
-
+1
 #include <xc.h>
 #ifndef F_CPU
 #define F_CPU 1000000UL // 16 MHz clock speed
